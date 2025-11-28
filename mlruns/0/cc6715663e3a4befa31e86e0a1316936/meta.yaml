@@ -1,0 +1,14 @@
+artifact_uri: /home/jose_quinonez_lopez/customer-churn-mlops/kaggle_customer_churn/mlruns/0/cc6715663e3a4befa31e86e0a1316936/artifacts
+end_time: 1764358227748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc6715663e3a4befa31e86e0a1316936
+run_name: Model_Serialization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764358216399
+status: 3
+tags: []
+user_id: jose_quinonez_lopez

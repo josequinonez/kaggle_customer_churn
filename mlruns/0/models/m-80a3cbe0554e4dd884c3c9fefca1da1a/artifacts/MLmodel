@@ -1,0 +1,32 @@
+artifact_path: /home/jose_quinonez_lopez/customer-churn-mlops/kaggle_customer_churn/mlruns/0/models/m-80a3cbe0554e4dd884c3c9fefca1da1a/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-80a3cbe0554e4dd884c3c9fefca1da1a
+model_size_bytes: 2768
+model_uuid: m-80a3cbe0554e4dd884c3c9fefca1da1a
+prompts: null
+run_id: cc6715663e3a4befa31e86e0a1316936
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "CreditScore", "required": true}, {"type": "string",
+    "name": "Geography", "required": true}, {"type": "string", "name": "Gender", "required":
+    true}, {"type": "long", "name": "Age", "required": true}, {"type": "long", "name":
+    "Tenure", "required": true}, {"type": "double", "name": "Balance", "required":
+    true}, {"type": "long", "name": "NumOfProducts", "required": true}, {"type": "long",
+    "name": "HasCrCard", "required": true}, {"type": "long", "name": "IsActiveMember",
+    "required": true}, {"type": "double", "name": "EstimatedSalary", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1,
+    13]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-28 19:30:24.464360'

@@ -1,0 +1,10 @@
+artifact_location: /home/jose_quinonez_lopez/customer-churn-mlops/kaggle_customer_churn/mlruns/0/models/m-80a3cbe0554e4dd884c3c9fefca1da1a/artifacts
+creation_timestamp: 1764358224458
+experiment_id: '0'
+last_updated_timestamp: 1764358227554
+model_id: m-80a3cbe0554e4dd884c3c9fefca1da1a
+model_type: null
+name: churn_preprocessor
+source_run_id: cc6715663e3a4befa31e86e0a1316936
+status: 2
+status_message: null

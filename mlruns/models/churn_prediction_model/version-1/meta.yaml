@@ -1,0 +1,15 @@
+creation_timestamp: 1764358223154
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764358223154
+model_id: m-9f85597912d5442cb9d22d04ba3a4f57
+name: churn_prediction_model
+run_id: cc6715663e3a4befa31e86e0a1316936
+run_link: null
+source: models:/m-9f85597912d5442cb9d22d04ba3a4f57
+status: READY
+status_message: null
+storage_location: /home/jose_quinonez_lopez/customer-churn-mlops/kaggle_customer_churn/mlruns/0/models/m-9f85597912d5442cb9d22d04ba3a4f57/artifacts
+user_id: null
+version: 1
