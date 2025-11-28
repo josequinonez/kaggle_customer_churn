@@ -1,0 +1,31 @@
+
+{
+"input_data": {
+"data": [
+{
+"CreditScore": 902,
+"Geography": "France",
+"Gender": "Female",
+"Age": 42,
+"Tenure": 8,
+"Balance": 159660.8,
+"NumOfProducts": 3,
+"HasCrCard": 1,
+"IsActiveMember": 0,
+"EstimatedSalary": 113931.57
+},
+{
+"CreditScore": 699,
+"Geography": "France",
+"Gender": "Female",
+"Age": 39,
+"Tenure": 1,
+"Balance": 0.0,
+"NumOfProducts": 2,
+"HasCrCard": 0,
+"IsActiveMember": 0,
+"EstimatedSalary": 93826.63
+}
+]
+}
+}

@@ -1,0 +1,17 @@
+service: "customer_churn_service:ChurnPredictionService"
+
+labels:
+  owner: "jose_quinonez_lopez"
+  project: "customer_churn"
+
+include:
+  - "customer_churn_service.py"
+  - "model_architecture.py"
+  - "requirements.txt"
+
+python:
+  requirements_txt: "./requirements.txt"
+ 
+models:
+  - "churn_prediction_model:latest"
+  - "churn_preprocessor:latest"
